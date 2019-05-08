@@ -33,7 +33,7 @@ const intern4 ={
 id:4,
 name:'Gannie',
 email:'gmartinson3@illinois.edu',
-gender'F'},
+gender:'F'},
 
 const intern5 ={
 id:5,
